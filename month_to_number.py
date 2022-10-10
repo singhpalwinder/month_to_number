@@ -7,7 +7,7 @@ keys = list(months.keys())
 values = list(months.values())
 
 
-home = '/Users/palwindersingh/Documents/test'
+home = '/path/to/root/directory'
 
 
 def walk_directory():
